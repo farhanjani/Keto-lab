@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Galano Grotesque';
+    src: url('GalanoGrotesque-Light.woff2') format('woff2'),
+        url('GalanoGrotesque-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galano Grotesque';
+    src: url('GalanoGrotesque-SemiBold.woff2') format('woff2'),
+        url('GalanoGrotesque-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galano Grotesque';
+    src: url('GalanoGrotesque-Regular.woff2') format('woff2'),
+        url('GalanoGrotesque-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galano Grotesque';
+    src: url('GalanoGrotesque-Medium.woff2') format('woff2'),
+        url('GalanoGrotesque-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Butler';
+    src: url('Butler.woff2') format('woff2'),
+        url('Butler.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Butler';
+    src: url('Butler-Bold.woff2') format('woff2'),
+        url('Butler-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Butler';
+    src: url('Butler-Medium.woff2') format('woff2'),
+        url('Butler-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Galano Grotesque';
+    src: url('GalanoGrotesque-Bold.woff2') format('woff2'),
+        url('GalanoGrotesque-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

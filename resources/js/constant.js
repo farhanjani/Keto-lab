@@ -1,0 +1,10 @@
+export const BASE_URL = '/api'
+export const TOP_RATED_CATEGORY_ID = 15
+export const RECOMMENDED_PRODUCTS_CATEGORY_ID = 17
+export const SLIDER_PRODUCTS_CATEGORY_ID = 12
+export const DEAL_PRODUCTS_CATEGORY_ID = 13
+export const NEW_ARRIVAL_PRODUCTS_CATEGORY_ID = 14
+export const BEST_SELLER_PRODUCTS_CATEGORY_ID = 16
+export const PRODUCT_IMG_URL = 'https://s3.us-west-2.amazonaws.com/bigbluebrands.com/product'
+export const CUSTOMER_IMG_URL = 'https://s3.us-west-2.amazonaws.com/bigbluebrands.com/customer_review'
+export const UPSELL_IMG_URL = 'https://s3.us-west-2.amazonaws.com/bigbluebrands.com/upsell'
